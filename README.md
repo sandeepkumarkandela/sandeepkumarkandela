@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi 👋, I'm Sandeep Kumar
 
 🚀 Aspiring Full Stack Developer | AI Enthusiast  
